@@ -1,0 +1,1 @@
+During my masters I took Information Retrieval and Web Search course in which I crawled professor's website in Java and answered the questions given by him. In the first two documents I have written the complete java code and for more clearity I have also answered the questions.
